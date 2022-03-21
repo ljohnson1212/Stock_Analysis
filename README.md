@@ -85,7 +85,9 @@
 
 After running the code the results were as follows:
 
+![alt text](VBA_Challenge_2017.png)
 
+![alt text](VBA_Challenge_2018.png)
 
 
 
