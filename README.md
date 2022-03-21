@@ -96,3 +96,7 @@ After running the code the results were as follows:
 The completion of refacting our code makes the data cleaner and more organized. This can result in faster debugging and faster programming. Another advantage is that it makes our clients more likely to understand the data clearer and be able to translate what is happening within the code. Unfortunately there are possible disadvatages. There can be errors in the data that can make it difficult to refactor the code. There might be applications or data sets that are too large to retrieve a concise result of the data.
 
 Refactoring the code resulted in a decrease in macro run time. The analysis during the module took about a minute to run, whereas the macro run time during the refactor took about 1/4 of the time. The results of each refactor macro run time are shown below:
+
+![alt text](Resources/2017_run_time.png)
+
+![alt text](Resources/2018_run_time.png)
